@@ -1,11 +1,11 @@
 {
-	"title"											: "Climb",
+	"title"											: "Lightning",
 	"executable"									: "FortniteGame/Binaries/Win64/FortniteClient-Win64-Shipping.exe",
-	"productid"										: "dfd7804bc014450aad71eefefac9009d",
-	"sandboxid"										: "7c202a9eca054395b8e6a8b282f5e85f",
-	"deploymentid"									: "9a79c225f9f2493a9d30fb156af5a734",
+	"productid"										: "3f99631507a84e8f887a9a97fde63113",
+	"sandboxid"										: "45565bd8322940f4b3dd38b23aa080cd",
+	"deploymentid"									: "8bd11500d01842d581c66ec1fac7c557",
 	"requested_splash"								: "EasyAntiCheat/SplashScreen.png",
-	"wait_for_game_process_exit"					: "true",
+	"wait_for_game_process_exit"					: "false",
 	"hide_bootstrapper"								: "false",
 	"hide_gui"										: "false"
 }
